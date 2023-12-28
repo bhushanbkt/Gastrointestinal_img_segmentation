@@ -1,12 +1,4 @@
 # Gastrointestinal_img_segmentation
-![Screenshot (233)](https://github.com/bhushanbkt/Gastrointestinal_img_segmentation/assets/91175596/b90c92da-2645-44f2-9f56-2011c6e89e9d)
-
-![Screenshot (234)](https://github.com/bhushanbkt/Gastrointestinal_img_segmentation/assets/91175596/147cdf69-65f6-4087-840c-728b40b3b0fa)
-
-
-
-
-
 
 ## Overview
 
@@ -24,3 +16,6 @@ Accuracy: Achieved an accuracy of 84.26% on the segmentation task.
 data/: Directory containing the collected and preprocessed dataset.
 models/: Location for storing the trained U-Net model .
 app.py: Main file for the Streamlit application.
+![Screenshot (233)](https://github.com/bhushanbkt/Gastrointestinal_img_segmentation/assets/91175596/b90c92da-2645-44f2-9f56-2011c6e89e9d)
+
+![Screenshot (234)](https://github.com/bhushanbkt/Gastrointestinal_img_segmentation/assets/91175596/147cdf69-65f6-4087-840c-728b40b3b0fa)
