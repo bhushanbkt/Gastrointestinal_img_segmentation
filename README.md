@@ -6,15 +6,15 @@ This project focuses on Gastrointestinal (GI) Image Segmentation using a U-Net m
 
 ## Key Features
 
-Data Collection: Curated a dataset of gastrointestinal images suitable for segmentation tasks.
+* Data Collection: Curated a dataset of gastrointestinal images suitable for segmentation tasks.
 
-Data Preprocessing: Prepared and preprocessed the dataset to meet the requirements of the U-Net model.
+ * Data Preprocessing: Prepared and preprocessed the dataset to meet the requirements of the U-Net model.
 
-U-Net Model: Implemented a U-Net architecture for semantic segmentation of gastrointestinal images.
+* U-Net Model: Implemented a U-Net architecture for semantic segmentation of gastrointestinal images.
 
-Streamlit App: Developed an interactive Streamlit application for real-time visualization of segmentation predictions.
+* Streamlit App: Developed an interactive Streamlit application for real-time visualization of segmentation predictions.
 
-Accuracy: Achieved an accuracy of 84.26% on the segmentation task.
+* Accuracy: Achieved an accuracy of 84.26% on the segmentation task.
 
 ## Project Structure
 data/: Directory containing the collected and preprocessed dataset.
