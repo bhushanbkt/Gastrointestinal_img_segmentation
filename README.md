@@ -12,6 +12,8 @@ Data Collection: Curated a dataset of gastrointestinal images suitable for segme
 Data Preprocessing: Prepared and preprocessed the dataset to meet the requirements of the U-Net model.
 U-Net Model: Implemented a U-Net architecture for semantic segmentation of gastrointestinal images.
 Streamlit App: Developed an interactive Streamlit application for real-time visualization of segmentation predictions.
+
+
 Project Structure
 data/: Directory containing the collected and preprocessed dataset.
 models/: Location for storing the trained U-Net model .
